@@ -19,7 +19,7 @@
 - 🖥 &nbsp; Illustrator| Photoshop | OpenShot
 
 <br/>
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+
 [![souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souvikguria98&show_icons=true)](https://github.com/souvikguria98)
 
 <h3> 🤝🏻 Connect with Me </h3>
