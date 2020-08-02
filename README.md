@@ -3,10 +3,10 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying Computer Science and Mathematics.
+- 💼 &nbsp; Working as a freelance android developer.
+- 🌱 &nbsp; Enthusiast in Learning more about cyber Security .
+- ✍️ &nbsp; Pursuing Graphic Design, watching Anime, as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -20,7 +20,7 @@
 
 [![souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souvikguria98&show_icons=true)](https://github.com/souvikguria98)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me in <a twitter href="https://twitter.com/_souvik_guria"> </a> </h3>
 
 <p align="center">
 <a href="https://techdevsouvik.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.techdevsouvik.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
