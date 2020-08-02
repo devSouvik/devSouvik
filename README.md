@@ -8,7 +8,7 @@
 - 💼 &nbsp; A part time freelance android developer and front-end developer.
 - 🌱 &nbsp; Enthusiast in cyber Security .
 - ✍️ &nbsp; Pursuing Graphic Design, watching Anime as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution. 
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate mental peace. 
 
 <h3>🛠 Tech Stack</h3>
 
