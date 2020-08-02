@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Souvik.</h2>
+<h2> Hey there! I'm Souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="50"></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
