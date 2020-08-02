@@ -20,7 +20,7 @@
 
 [![souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souvikguria98&show_icons=true)](https://github.com/souvikguria98)
 
-<h3> 🤝🏻 Connect with Me in <a twitter href="https://twitter.com/_souvik_guria"> </a> </h3>
+<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 <a href="https://techdevsouvik.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.techdevsouvik.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
