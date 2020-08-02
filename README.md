@@ -11,10 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | Dart | C++ 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 💻 &nbsp; Python | Java | Dart | C++  
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase
-- 🔧 &nbsp; Android Studio | Visual Studio code| Eclipse | Git
+- 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Illustrator| Photoshop | OpenShot
 
 <br/>
