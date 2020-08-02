@@ -34,7 +34,7 @@
 &nbsp; <a href="https://techdevsouvik.netlify.app/"><img src="https://img.icons8.com/cotton/64/000000/domain.png" width="50" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/"><img src="https://img.icons8.com/doodle/64/000000/linkedin.png" width="50" /></a>
 &nbsp; 
-<a href="mailto:souvikguria98@gmail.com"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="60" /></a>
+<a href="mailto:souvikguria98@gmail.com"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="55" /></a>
 
 </p>
 
