@@ -24,7 +24,7 @@
 
 <p align="center">
 <a href="https://www.techdevsouvik.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.techdevsouvik.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-https://LinkedIn-Souvik%20guria%20-/-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://https://www.linkedin.com/in/souvik-guria-/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-https://LinkedIn-Souvik%20guria%20-/-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:souvikguria98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-souvikguria98@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
