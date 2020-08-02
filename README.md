@@ -3,9 +3,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics.
-- 💼 &nbsp; A part time freelance android developer.
-- 
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; A part time freelance android developer and front-end developer.
 - 🌱 &nbsp; Enthusiast in cyber Security .
 - ✍️ &nbsp; Pursuing Graphic Design, watching Anime as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution. 
@@ -14,9 +13,9 @@
 
 - 💻 &nbsp; Python | Java | Dart | C++ 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🛢 &nbsp; MySQL | Firebase
+- 🔧 &nbsp; Android Studio | Visual Studio code| Eclipse | Git
+- 🖥 &nbsp; Illustrator| Photoshop | OpenShot
 
 <br/>
 
