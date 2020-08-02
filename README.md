@@ -10,6 +10,9 @@
 - ✍️ &nbsp; Pursuing Graphic Design, watching Anime as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate mental peace. 
 
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | Dart | C++  
