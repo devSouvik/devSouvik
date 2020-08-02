@@ -1,16 +1,32 @@
-### Hi there 👋
+h2> Hey there! I'm Souvik.</h2>
 
-<!--
-**souvikguria98/souvikguria98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Java | C++ | R (Statistics) | MATLAB
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
+<br/>
+
+[![souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souvikguria98&show_icons=true)](https://github.com/souvikguria98)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.techdevsouvik.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:souvikguria98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [souvikguria98](https://github.com/souvikguria98)
