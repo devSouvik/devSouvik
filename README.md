@@ -17,7 +17,7 @@
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase
 - 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator| Photoshop | OpenShot
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 <br/>
 
