@@ -9,7 +9,7 @@
 - 💼 &nbsp; Android developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security .
 - ✍️ &nbsp; Pursuing Graphic Design, watching Anime as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate mental peace. 
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for mental peace. 
 
 <h3>🛠 Tech Stack</h3>
 
