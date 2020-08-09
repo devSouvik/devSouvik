@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
+        body{
+    background: #e3edf7;  /* #e3edf7 */
+}
 <h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/souvikguria98/souvikguria98/master/1.gif" />
 
