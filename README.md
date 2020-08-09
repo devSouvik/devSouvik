@@ -21,7 +21,7 @@
 
 <br/>
 
-[![souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souvikguria98&show_icons=true)](https://github.com/souvikguria98)
+[![souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true)](https://github.com/devSouvik)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
