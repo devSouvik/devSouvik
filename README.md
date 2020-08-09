@@ -34,7 +34,7 @@
 <a href="https://twitter.com/_souvik_guria"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Souvik%20Guria-blue?style=flat-square&logo=twitter"></a>
 -->
 &nbsp; <a href="https://twitter.com/_souvik_guria"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://techdevsouvik.netlify.app/"><img src="https://img.icons8.com/nolan/64/domain.png" width="50" /></a>
+<!-- &nbsp; <a href="https://techdevsouvik.netlify.app/"><img src="https://img.icons8.com/nolan/64/domain.png" width="50" /></a> -->
 &nbsp; <a href="https://www.instagram.com/the_caffeine__addict/"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:souvikguria98@gmail.com"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
