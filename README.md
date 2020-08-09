@@ -41,6 +41,15 @@
 &nbsp; <a href="mailto:souvikguria98@gmail.com"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
 </p>
-
+<h1>SOCIAL MEDIA BUTTONS</h1>
+         <div class="social-media">
+             <!-- 
+             <a href="#"><i class = "fab fa-facebook"></i></a> 
+             <a href="#"><i class = "fab fa-whatsapps"></i></a> -->
+             <a href="https://www.linkedin.com/in/souvik-guria-/"  target="_blank" rel="noopener noreferrer"><i class = "fab fa-linkedIn"></i></a>   
+             <a href="https://www.instagram.com/the_caffeine__addict/"  target="_blank" rel="noopener noreferrer"><i class = "fab fa-instagram"></i></a>
+             <a href="https://twitter.com/_souvik_guria"  target="_blank" rel="noopener noreferrer"><i class = "fab fa-twitter"></i></a>
+             <a href="https://github.com/souvikguria98"  target="_blank" rel="noopener noreferrer"><i class = "fab fa-github"></i></a>
+         </div>
 
 
