@@ -25,6 +25,9 @@
 
 [![souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true)](https://github.com/devSouvik)
 
+<img src="https://github-readme-stats.vercel.app/api?username=devSouvik&&show_icons=true&theme=radical&line_height=27&v=5" alt="souvik's GitHub Stats" />
+
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -40,5 +43,6 @@
 &nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
 </p>
-<img src="https://profile-counter.glitch.me/devSouvik/count.svg" />
+<!-- <img src="https://profile-counter.glitch.me/devSouvik/count.svg" /> --> 
+
 
