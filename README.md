@@ -22,8 +22,7 @@
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 <br/>
-![souvik's github stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true)(https://github.com/devSouvik)
-
+![souvik's github stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true)
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
