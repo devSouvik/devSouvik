@@ -22,6 +22,7 @@
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 <br/>
+
 [![souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true)](https://github.com/devSouvik) 
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=devSouvik&&show_icons=true&theme=radical&line_height=27&v=5" alt="souvik's GitHub Stats" /> --> 
