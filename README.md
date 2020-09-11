@@ -1,7 +1,8 @@
 
         
 <h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/souvikguria98/souvikguria98/master/1.gif" />
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/souvikguria98/souvikguria98/master/1.gif" /> -->
+<img align="right" alt="GIF" src="https://dribbble.com/shots/10561878-freelancing?utm_source=Clipboard_Shot&utm_campaign=dolce&utm_content=freelancing&utm_medium=Social_Share" />
 
 <h3> 👨🏻‍💻 About Me </h3>
 
