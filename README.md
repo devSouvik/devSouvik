@@ -24,6 +24,7 @@
 <br>
 
 <!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
 </br>
@@ -40,4 +41,7 @@
 &nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 </p>
 
+<!-- addded on 3rd May 2021 -->
 
+#### **Visitor Count**
+ ![Visitor Count](https://profile-counter.glitch.me/{devSouvik}/count.svg)
