@@ -6,11 +6,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development and coding discord Bots
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 &nbsp; Currently working with a company and improving my Flutter skills 
+- 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- 💼 &nbsp; Flutter developer.
+- 🌱 &nbsp; InfoSec Enthusiast. 
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for stress. 
 
