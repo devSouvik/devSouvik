@@ -42,6 +42,11 @@
 &nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 </p>
 
+Aaahhhhhh !! My contribution grapgh is getting eaten... 😶
+<p> 
+ <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
+</p>
+
 <!-- addded on 3rd May 2021 -->
 
 #### **Visitor Count**
