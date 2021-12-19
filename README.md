@@ -12,7 +12,7 @@
 - 💼 &nbsp; Data Engineer, part time Frontend developer.
 - 🌱 &nbsp; InfoSec Enthusiast. 
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress. 
 
 <h3>🛠 Tech Stack</h3>
 
