@@ -9,15 +9,15 @@
 - 🔭 &nbsp; Currently working with a company and improving my Frontend skills with React.js 
 - 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Data Engineer, part time Frontend developer.
+- 💼 &nbsp; Developer by profession.
 - 🌱 &nbsp; InfoSec Enthusiast. 
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress. 
+- ✍️ &nbsp; Watching Anime and trying out latest design trends.
+- ☕ &nbsp; I believe, brewing a perfect cup of coffee can be the ultimate stress buster. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript 
-- 🌐 &nbsp; React.js | Android | Flutter | J2EE
+- 🌐 &nbsp; React.js | Android | Flutter | J2EE | node.js
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
