@@ -1,6 +1,6 @@
 <h2> Hey there! I'm souvik. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="427"/>
 
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 
@@ -12,7 +12,7 @@
 - 💼 &nbsp; Developer by profession.
 - 🌱 &nbsp; InfoSec Enthusiast. 
 - ✍️ &nbsp; Watching Anime and trying out latest design trends.
-- ☕ &nbsp; I believe, brewing a perfect cup of coffee can be the ultimate stress buster. 
+- ☕ &nbsp; `mood == 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
 
 <h3>🛠 Tech Stack</h3>
 
