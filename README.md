@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; working with a company and improving my Frontend skills 
+- 🔭 &nbsp; improving my Frontend skills 
 - 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Developer by profession.
