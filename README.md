@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently working with a company and improving my Frontend skills with React.js 
+- 🔭 &nbsp; working with a company and improving my Frontend skills 
 - 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Developer by profession.
@@ -18,7 +18,7 @@
 
 - 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript 
 - 🌐 &nbsp; React.js | Android | Flutter | J2EE | node.js
-- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🛢 &nbsp; MySQL | Firebase | Xampp | docker
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
 
