@@ -12,7 +12,7 @@
 - 💼 &nbsp; Developer by profession.
 - 🌱 &nbsp; InfoSec Enthusiast. 
 - ✍️ &nbsp; Watching Anime and trying out latest design trends.
-- ☕ &nbsp; `coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'`
+- ☕ &nbsp; `coffee == 'perfectly brewed' ? mood = 'boosted' : mood = '!boosted'`
 
 <h3>🛠 Tech Stack</h3>
 
